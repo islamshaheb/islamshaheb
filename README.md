@@ -12,6 +12,6 @@ You can find me on [LinkedIn][3].
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islamshaheb&theme=tokyonight)
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=End%10Section&fontSize=10)
+![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
 
