@@ -13,5 +13,6 @@ You can find me on [![LinkedIn][3.2]][3].
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=islamshaheb&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islamshaheb&theme=tokyonight)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=End%20Section&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=30&section=footer&text=End%10Section&fontSize=10)
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
