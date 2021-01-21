@@ -5,7 +5,7 @@ You can find me on [LinkedIn][3].
 <!-- Links to your social media accounts -->
 [3]: https://www.linkedin.com/in/mojahidul-islam/
 <p>
-  <p>You can also <a href="mailto:islamshaheb5@gmail.com">Email Me</a></p>
+  <p>You can also <a href="mailto:islamshaheb5@gmail.com">Mail Me</a></p>
 </p>
 
 ## visitors Count(From Jan 21,2021) : ![](https://visitor-badge.laobi.icu/badge?page_id=islamshaheb.islamshaheb)
