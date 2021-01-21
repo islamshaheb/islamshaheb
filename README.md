@@ -2,12 +2,11 @@
 I am Mojahidul Islam a final semeseter undergraduate student form Bangladesh.
 <!-- Actual text -->
 You can find me on [LinkedIn][3].
+<!-- Links to your social media accounts -->
+[3]: https://www.linkedin.com/in/mojahidul-islam/
 <p>
   <p><a href="mailto:someone@example.com">Send email</a></p>
 </p>
-<!-- Links to your social media accounts -->
-[3]: https://www.linkedin.com/in/mojahidul-islam/
-
 ## visitors Count(From Jan 21,2021) : ![](https://visitor-badge.laobi.icu/badge?page_id=islamshaheb.islamshaheb)
 ## My GitHub All Statistics: 
 
@@ -17,7 +16,7 @@ You can find me on [LinkedIn][3].
 
 <footer>
 <p style="float:left; width: 20%;">
-End Section
+End of the README.md 
 </p>
 </footer>
 
