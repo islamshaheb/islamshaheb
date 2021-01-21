@@ -8,8 +8,8 @@ You can find me on [LinkedIn][3].
   <p>You can also <a href="mailto:islamshaheb5@gmail.com">Mail Me</a></p>
 </p>
 
-## visitors Count(From Jan 21,2021) : ![](https://visitor-badge.laobi.icu/badge?page_id=islamshaheb.islamshaheb)
-## My GitHub's Stat: 
+## Visitors Count(From Jan 21,2021) : ![](https://visitor-badge.laobi.icu/badge?page_id=islamshaheb.islamshaheb)
+## My GitHub's Stat. : 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=islamshaheb&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islamshaheb&theme=tokyonight)
