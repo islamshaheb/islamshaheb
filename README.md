@@ -1,5 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
+
 ### Hi there 👋
-# Mojahid is here. ### I am Mojahidul Islam a final semeseter undergraduate student form Bangladesh.
+# Mojahid is here.
+I am Mojahidul Islam a final semeseter undergraduate student form Bangladesh.
 ## Welcome to my profile
 
 ## ✉️ Find me on:
