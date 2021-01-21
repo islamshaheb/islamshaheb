@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
+
 
 ### Hi there 👋
 # Mojahid is here.
@@ -18,3 +18,6 @@ I am Mojahidul Islam a final semeseter undergraduate student form Bangladesh.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=islamshaheb&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islamshaheb&theme=tokyonight)
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=End%20Section&fontSize=90)
+
