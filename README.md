@@ -1,17 +1,17 @@
-
-
-### Hi there 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 # Mojahid is here.
 I am Mojahidul Islam a final semeseter undergraduate student form Bangladesh.
 ## Welcome to my profile
+<!-- Actual text -->
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+<!-- Icons -->
+[1.2]: <i class="fab fa-hackerrank"></i> (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
-## ✉️ Find me on:
-<p align="center">
- <a href="https://islamshaheb.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"          alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/mojahidul-islam/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"       alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:islamshaheb5@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
-<br />
+<!-- Links to your social media accounts -->
+
+[1]:https://www.hackerrank.com/islamshaheb
+[2]: https://www.linkedin.com/in/mojahidul-islam/
 
 ## visitors Count(From Jan 21,2021) : ![](https://visitor-badge.laobi.icu/badge?page_id=islamshaheb.islamshaheb)
 ## My GitHub All Statistics: 
