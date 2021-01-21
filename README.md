@@ -2,6 +2,9 @@
 I am Mojahidul Islam a final semeseter undergraduate student form Bangladesh.
 <!-- Actual text -->
 You can find me on [LinkedIn][3].
+<p>
+  <p><a href="mailto:someone@example.com">Send email</a></p>
+</p>
 <!-- Links to your social media accounts -->
 [3]: https://www.linkedin.com/in/mojahidul-islam/
 
@@ -14,13 +17,7 @@ You can find me on [LinkedIn][3].
 
 <footer>
 <p style="float:left; width: 20%;">
-Copyright © Jonathan Gossage, 2018
-</p>
-<p style="float:left; width: 60%; text-align:center;">
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>
-</p>
-<p style="float:left; width: 20%;">
-Email addresses will be added when they are setup.
+End Section
 </p>
 </footer>
 
