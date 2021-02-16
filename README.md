@@ -1,5 +1,5 @@
 # Hello, Visitor! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I am Mojahidul Islam a final semeseter undergraduate student from Bangladesh.
+I am Mojahidul Islam a final semester undergraduate student from Bangladesh.
 <!-- Actual text -->
 You can find me on [LinkedIn][3].
 <!-- Links to your social media accounts -->
